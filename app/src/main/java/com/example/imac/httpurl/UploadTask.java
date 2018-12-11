@@ -18,7 +18,7 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Set;
-
+//a
 public class UploadTask extends AsyncTask<String, Void, String> {
     private MainActivity MyTask;
     private TextView textView;
