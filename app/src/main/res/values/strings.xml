@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HTTPURL</string>
+    <string name="word">num: </string>
+    <string name="hint">num</string>
+    <string name="post">post data</string>
+    <string name="browser">browser</string>
+</resources>
